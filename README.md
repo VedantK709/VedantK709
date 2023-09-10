@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning C, C++, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email vmk70009@gmail.com
+- 📫 How to reach me Email vedantkhete@gmail.com
 
 <!---
 VedantK709/VedantK709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
