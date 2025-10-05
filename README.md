@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vedant Khete
-- 👀 I’m interested in Full Stack Web Development 
+- 👀 I’m interested in Full Stack Web Development and Data Science
 - 🌱 I’m currently learning Java, Python, Android App Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email vedantkhete@gmail.com
+- 📫 How to reach me Email vedantkhete@gmail.com or vedantkhete7@gmail.com
 
 <!---
 VedantK709/VedantK709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
